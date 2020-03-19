@@ -1,3 +1,2 @@
-# Natural-Language-Processing
+# Natural-Language-Processing Concepts
 
-A repo for all projects, tutorials and other stuff related to NLP
